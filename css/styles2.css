@@ -1,0 +1,25 @@
+body {
+    background-color: rgb(19, 209, 130);
+  }
+div{
+    display: flex;
+    justify-content: space-between;
+
+}
+
+img{
+    height: 600px;
+    width: 400px;
+    border: solid 10px red;
+    border-radius: 1000px;
+    
+}
+
+p{
+    text-align: justify;
+    border: solid 5px black;
+    margin: 150px;
+    padding: 10px;
+
+
+}
